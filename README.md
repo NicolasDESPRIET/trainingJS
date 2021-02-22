@@ -1,4 +1,4 @@
-#training java
+#training javascript
 
 init docker :
 - docker run --rm -ti -v C:\Users\Sephiny\Documents\js\trainingJS:/app -w /app node npm init
