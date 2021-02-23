@@ -30,9 +30,11 @@ function jour(hippo){
     for (let i = 0; i < 15; i++){
         hippo.eat();
         hippo.eat();
-        hippo.swim();
-        hippo.swim();
-        hippo.swim();
+        for (let k = 0; k < 3; k++){
+            if(hippo.alive){
+                hippo.swim();
+            }
+        }
     }
 }
 
