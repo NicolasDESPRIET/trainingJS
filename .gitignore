@@ -1,6 +1,2 @@
 #folder dependencies
 node_modules/
-
-#json
-package-lock.json
-package.json
