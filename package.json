@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "init docker :\r - docker run --rm -ti -v C:\\Users\\Sephiny\\Documents\\js\\trainingJS:/app -w /app node npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "scanf": "^1.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasDESPRIET/trainingJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NicolasDESPRIET/trainingJS/issues"
+  },
+  "homepage": "https://github.com/NicolasDESPRIET/trainingJS#readme"
+}
