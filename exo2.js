@@ -1,4 +1,4 @@
-var scanf = require("scanf");
+const scanf = require("scanf");
 
 console.log("entrez un nombre: ");
 let n = scanf("%d");
